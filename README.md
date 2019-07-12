@@ -6,7 +6,8 @@
 
 * Go Iris 管理后台（Iris 学习，有VueDemo）https://gitee.com/yhm_my/go-iris
 
-* 区块链Demo https://gitee.com/jonluo/blockchain
+* 区块链Demo https://gitee.com/jonluo/blockchain  
+* Gin web framework(go ) https://gin-gonic.com/
 
 # 树莓派资源  
 * 树莓派玩机目录 * https://www.99diary.com/shumeipai/index2.html  
