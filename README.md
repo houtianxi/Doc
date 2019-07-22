@@ -8,6 +8,7 @@
 
 * 区块链Demo https://gitee.com/jonluo/blockchain  
 * Gin web framework(go ) https://gin-gonic.com/
+* https://github.com/hackstoic/golang-open-source-projects 项目收集
 
 # 树莓派资源  
 * 树莓派玩机目录 * https://www.99diary.com/shumeipai/index2.html  
